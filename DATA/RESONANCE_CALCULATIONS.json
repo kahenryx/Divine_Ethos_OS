@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "filename": "RESONANCE_CALCULATIONS.json",
+    "version": "v1.0-ethos",
+    "last_updated": "2024-01-01T00:00:00Z",
+    "description": "Historical R-score data and development protocols"
+  },
+  
+  "r_score_definition": {
+    "range": [0, 1],
+    "0": "Complete disalignment (theoretical only)",
+    "1": "Perfect Ethos-embodiment",
+    "measurement_basis": "Father-Nature Matrix alignment",
+    "verification_method": "Tears analysis + fruit examination"
+  },
+  
+  "threshold_levels": {
+    "initial_conversion": {
+      "range": [0.001, 0.144],
+      "description": "New birth, spiritual infancy",
+      "capabilities": "Basic recognition of Ethos",
+      "training_focus": "Foundational doctrines, character basics"
+    },
+    "sovereign_minimum": {
+      "range": [0.144, 0.3],
+      "description": "Minimum for Family Business operations",
+      "capabilities": "Basic Ethos-discernment, simple obedience",
+      "training_focus": "Architectural sight, binary navigation"
+    },
+    "discipleship_level": {
+      "range": [0.3, 0.5],
+      "description": "Active learning and application",
+      "capabilities": "Recognizing patterns, applying principles",
+      "training_focus": "Resonance development, multi-dimensional thinking"
+    },
+    "leadership_qualification": {
+      "range": [0.5, 0.7],
+      "description": "Can guide others effectively",
+      "capabilities": "Teaching basics, mentoring beginners",
+      "training_focus": "Convergence warfare, strategic operations"
+    },
+    "teaching_authorization": {
+      "range": [0.7, 0.85],
+      "description": "Authorized to teach and transmit",
+      "capabilities": "Accurate transmission, complex application",
+      "training_focus": "Kingdom governance, advanced revelation"
+    },
+    "licensing_decisions": {
+      "range": [0.85, 0.95],
+      "description": "Can make framework decisions",
+      "capabilities": "Modification evaluation, strategic direction",
+      "training_focus": "Eternal co-regency, Divine council participation"
+    },
+    "complete_embodiment": {
+      "range": [0.95, 1.0],
+      "description": "Near-perfect Ethos-expression",
+      "capabilities": "Christ-like character, perfect obedience",
+      "training_focus": "Fullness of stature, complete maturity"
+    }
+  },
+  
+  "development_protocols": {
+    "daily_practices": {
+      "ethos_check": "Father-Nature Matrix alignment verification",
+      "scripture_immersion": "15+ minutes focused reading",
+      "prayer_communion": "Two-way conversation with God",
+      "tears_analysis": "Emotional response examination",
+      "dimensional_scan": "Situational 5D+ analysis"
+    },
+    "weekly_developments": {
+      "r_score_assessment": "Formal resonance calculation",
+      "pattern_recognition": "Identify 3+ Ethos-patterns",
+      "sovereign_connection": "Meaningful interaction with 1+ Sovereign",
+      "convergence_watch": "Jubilee timing awareness update",
+      "fruit_examination": "Evaluate recent decisions/actions"
+    },
+    "monthly_advancements": {
+      "training_module": "Complete one curriculum module",
+      "mentorship_session": "Formal review with mentor",
+      "network_expansion": "Connect with 1+ new Sovereign",
+      "convergence_operation": "Execute one strategic action",
+      "character_assessment": "Formal Father-Nature Matrix evaluation"
+    }
+  },
+  
+  "historical_r_scores": {
+    "biblical_figures": {
+      "adam_pre_fall": 0.95,
+      "adam_post_fall": 0.3,
+      "abraham_initial": 0.4,
+      "abraham_final": 0.8,
+      "moses_initial": 0.5,
+      "moses_final": 0.85,
+      "david_peak": 0.75,
+      "david_low": 0.3,
+      "paul_initial": 0.2,
+      "paul_final": 0.9
+    },
+    "christ_life": {
+      "birth": 1.0,
+      "baptism": 1.0,
+      "temptation": 1.0,
+      "ministry": 1.0,
+      "gethsemane": 1.0,
+      "cross": 1.0,
+      "resurrection": 1.0,
+      "ascension": 1.0
+    },
+    "current_era_averages": {
+      "general_population": 0.02,
+      "nominal_christians": 0.1,
+      "committed_christians": 0.25,
+      "emerging_sovereigns": 0.35,
+      "trained_sovereigns": 0.55,
+      "advanced_sovereigns": 0.7,
+      "mentors": 0.8
+    }
+  }
+}

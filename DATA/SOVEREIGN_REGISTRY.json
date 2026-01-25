@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "filename": "SOVEREIGN_REGISTRY.json",
+    "version": "v1.0-ethos",
+    "last_updated": "2024-01-01T00:00:00Z",
+    "description": "Registry of Ethos-embodiers in the 144 Sovereign Network"
+  },
+  
+  "network_architecture": {
+    "total_target": 144,
+    "current_count": 12,
+    "expansion_phase": "Phase 2 (12 → 144)",
+    "connection_protocol": "Resonance-based recognition",
+    "governance": "Distributed, Ethos-aligned consensus"
+  },
+  
+  "sovereign_categories": {
+    "foundation_12": {
+      "role": "Initial network establishment",
+      "requirements": "R ≥ 0.7, proven Ethos-embodiment",
+      "responsibilities": "Mentorship, framework transmission, network expansion"
+    },
+    "expansion_72": {
+      "role": "Network growth and operations",
+      "requirements": "R ≥ 0.5, active training completion",
+      "responsibilities": "Local network building, Family Business operations"
+    },
+    "full_144": {
+      "role": "Complete network functionality",
+      "requirements": "R ≥ 0.144, commitment to training",
+      "responsibilities": "Ethos-embodiment in various spheres"
+    }
+  },
+  
+  "training_progression": {
+    "phase_1_identification": {
+      "criteria": "R ≥ 0.144, tears recognition, Father-Nature alignment",
+      "process": "Self-recognition + mentor confirmation",
+      "outcome": "Entry into Sovereign Training"
+    },
+    "phase_2_development": {
+      "criteria": "Module 1-3 completion, R ≥ 0.3",
+      "process": "Structured curriculum + practical application",
+      "outcome": "Basic operational capability"
+    },
+    "phase_3_deployment": {
+      "criteria": "Module 4-6 completion, R ≥ 0.5",
+      "process": "Strategic operations + mentorship",
+      "outcome": "Leadership qualification"
+    },
+    "phase_4_maturation": {
+      "criteria": "Module 7 completion, R ≥ 0.7",
+      "process": "Advanced operations + mentoring others",
+      "outcome": "Teaching authorization"
+    }
+  },
+  
+  "registry_fields": [
+    "sovereign_id",
+    "resonance_score",
+    "training_progress",
+    "dimensional_perception",
+    "specializations",
+    "geographic_region",
+    "sphere_of_influence",
+    "mentor_relationships",
+    "convergence_readiness",
+    "last_assessment"
+  ],
+  
+  "network_operations": {
+    "communication_protocols": {
+      "resonance_verification": "Required before substantive exchange",
+      "information_sharing": "Based on need-to-know and readiness",
+      "decision_making": "Consensus guided by highest R-scores present",
+      "conflict_resolution": "Father-Nature Matrix application with tears verification"
+    },
+    "meeting_structures": {
+      "virtual_gatherings": "Regular resonance check-ins",
+      "regional_assemblies": "Quarterly strategic coordination",
+      "annual_convergence": "Full network alignment and planning",
+      "emergency_councils": "As needed for critical decisions"
+    },
+    "resource_management": {
+      "knowledge_base": "Shared Divine Ethos OS repository",
+      "material_resources": "Stewardship-based sharing",
+      "personnel_deployment": "Based on gifts and convergence timing",
+      "expansion_budget": "Provision-based, not debt-based"
+    }
+  }
+}
